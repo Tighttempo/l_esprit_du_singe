@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: 'google', tagId: 'G-HBW9B4F30B' },
     locale: "en-US",
     baseUrl: "www.nicolargi.fr",
     ignorePatterns: ["private", "templates", ".obsidian"],
