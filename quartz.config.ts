@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🦧 La Grimace Du Singe",
+    pageTitle: "La Grimace Du Singe",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
